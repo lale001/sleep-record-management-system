@@ -118,7 +118,7 @@ The Sleep Record Management system utilizes the following data structures:
 1. Clone the repository
 
    ```bash
-    git clone https://github.com/Legacylight/car-management-system.git
+    git clone https://github.com/lale001/sleep-record-management-system.git
     ```
 
 2. Install dependencies
